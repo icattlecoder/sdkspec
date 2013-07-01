@@ -19,8 +19,10 @@ SDK 下载地址：\<url\>
 	- [初始化环境与清理](#init)
 	- [上传文件](#io-put)
 		- [上传流程](#io-put-flow)
-		- [上传策略](#io-put-policy)
-		- [断点续上传、分块并行上传](#resumable-io-put)
+			- [上传策略](#io-put-policy)
+			- [上传凭证](#upload-token)
+			- [PutExtra](#put-extra)
+			- [断点续上传、分块并行上传](#resumable-io-put)
 	- [下载文件](#io-get)
 		- [下载公有文件](#io-get-public)
 		- [下载私有文件](#io-get-private)
@@ -154,6 +156,12 @@ SDK 下载地址：\<url\>
 ```
 @gist(gist/server.c#uptoken)
 ```
+
+<a name="put-extra"></a>
+
+##### PutExtra
+
+\<PutExtra说明\>
 
 <a name="upload-do"></a>
 
