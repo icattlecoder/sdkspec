@@ -272,7 +272,7 @@ SDK 下载地址：\<url\>
 
 \<云处理使用说明\>
 
-贡献代码
+## 贡献代码
 
 + Fork
 + 创建您的特性分支 (git checkout -b my-new-feature)
@@ -280,10 +280,10 @@ SDK 下载地址：\<url\>
 + 将您的修改记录提交到远程 git 仓库 (git push origin my-new-feature)
 + 然后到 github 网站的该 git 远程仓库的 my-new-feature 分支下发起 Pull Request
 
-8. 许可证
+## 许可证
 
 > Copyright (c) 2013 qiniu.com
 
-基于 MIT 协议发布:
+## 基于 MIT 协议发布:
 
 > [www.opensource.org/licenses/MIT](http://www.opensource.org/licenses/MIT)
