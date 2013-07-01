@@ -260,8 +260,30 @@ SDK 下载地址：\<url\>
 
 \<批量操作\>
 
+<a name="adv-file-handle"></a>
+
+### 高级管理操作
+
+\<高级管理操作\>
+
 <a name="fop"></a>
 
 ### 云处理
 
 \<云处理使用说明\>
+
+贡献代码
+
++ Fork
++ 创建您的特性分支 (git checkout -b my-new-feature)
++ 提交您的改动 (git commit -am 'Added some feature')
++ 将您的修改记录提交到远程 git 仓库 (git push origin my-new-feature)
++ 然后到 github 网站的该 git 远程仓库的 my-new-feature 分支下发起 Pull Request
+
+8. 许可证
+
+> Copyright (c) 2013 qiniu.com
+
+基于 MIT 协议发布:
+
+> [www.opensource.org/licenses/MIT](http://www.opensource.org/licenses/MIT)
