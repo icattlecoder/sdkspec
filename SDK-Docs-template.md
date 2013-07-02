@@ -1,5 +1,5 @@
 ---
-title: C/C++ SDK 使用指南 | 七牛云存储
+title: \<sdk 名\> SDK 使用指南 | 七牛云存储
 ---
 
 # \<sdk名\> SDK 使用指南
